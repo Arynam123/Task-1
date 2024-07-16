@@ -1,3 +1,4 @@
+
 Name: Aryan Kumar Choudhary
 Company name: Codtech IT Solution
 Domain: Full stack
@@ -26,6 +27,8 @@ Monetization Strategies: Implementing various monetization methods such as ads, 
 Maintenance and Updates: Regularly updating content, maintaining website functionality, and ensuring security and performance optimization.
 
 By focusing on these objectives and key activities, a blog website can effectively serve its purpose, whether it's to inform, engage, build authority, promote, monetize, or a combination of these goals.
+
+![task 2](https://github.com/user-attachments/assets/e24dc818-9be4-4cea-b811-afe4219aecfc)
 
 
 
